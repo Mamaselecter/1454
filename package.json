@@ -1,0 +1,18 @@
+{
+  "name": "แจกครับแจก",
+  "theme": "syntax",
+  "version": "999.999.30",
+  "description": "รับทำ SEONo1 Google Ads ติดอันดับ google รัวๆ สอนทำ seo ติด top10 google โดยตัวจริงของวงการ SeoNo1.co.th",
+  "keywords": [
+    "seo",
+    "สอน seo",
+    "seo google",
+    "ทำ seo",
+    "รับทำ seo"
+  ],
+  "repository": "https://github.com/Mamaselecter/1454.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
